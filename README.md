@@ -16,7 +16,7 @@ Utilizar algum dataviz (Metabase, Tableau, PowerBI etc) para com o CSV enviado p
 
 - As datas mais recorrentes que aparecem nas reclamações
 
-A solução foi realizada utilizando o Power BI e consta no arquivo "Planos de saude.pbix".
+A solução foi realizada utilizando o Power BI e consta no arquivo "Planos de saude.pbix" além de estar disponível online através do link: https://app.powerbi.com/view?r=eyJrIjoiMTIwNzU5ZTItZWIxNS00MGQ4LTk5NWYtMTlkOTc3NzA5MDEzIiwidCI6IjI1NDk1MzBjLTVmNjItNDlhNy1hMzk5LWY5OGZhOTY4NWQ4ZiJ9&pageName=ReportSection.
 
 
 Parte 2
