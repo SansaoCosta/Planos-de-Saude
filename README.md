@@ -2,6 +2,8 @@
 
 Criado como parte do processo seletivo para vaga de Analista de Dados BI Pleno na Promobit.
 
+CSV: https://drive.google.com/drive/folders/187B990VSdpVf1XcE_Wbyz17_FjygaqkU?usp=sharing
+
 Parte 1
 
 Utilizar algum dataviz (Metabase, Tableau, PowerBI etc) para com o CSV enviado para fazer:
