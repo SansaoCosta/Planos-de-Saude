@@ -33,4 +33,4 @@ Parte 3
 Realizar teste de SQL existente no link abaixo:
 https://www.hackerrank.com/challenges/interviews/problem
 
-A solução conta no script "".
+A solução conta no script "SoluçãoSQL".
