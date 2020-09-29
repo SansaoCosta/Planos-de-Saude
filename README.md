@@ -23,10 +23,12 @@ Fazer a mesma coisa, mas agora com um notebook python
 
 Utilizar o estilo de gráfico que faça mais sentido com os dados apresentados.
 
-A solução consta no arquivo "Planos de saude.pbix".
-
+A solução consta no arquivo "Estudo de reclamações de planos de saúde.ipynb".
 
 
 Parte 3
 
+Realizar teste de SQL existente no link abaixo:
 https://www.hackerrank.com/challenges/interviews/problem
+
+A solução conta no script "".
